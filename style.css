@@ -1,0 +1,31 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 350px;
+    max-width: 700px;
+    background: lightcoral;
+    text-decoration: solid;
+  
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: #111111;
+    background-color: aliceblue;
+    padding: 10px 10px;
+    border-radius: 4px;
+    margin-bottom: 60px;
+
+    
+}
+
+span {
+
+    text-transform: uppercase;
+   
+}
+
+button {
+    
+}
